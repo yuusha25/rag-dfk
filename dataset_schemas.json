@@ -1,0 +1,150 @@
+[
+  {
+    "file": "Kitab Undang-Undang Hukum Pidana buku kedua_indexed.json",
+    "keys": [
+      "chunk_id",
+      "text",
+      "metadata",
+      "embedding"
+    ],
+    "sample": {
+      "chunk_id": "KITAB_UNDANG-UNDANG_HUKUM_PIDANA_BUKU_KEDUA__PASAL_111__AYAT_1",
+      "text": "Barang siapa mengadakan hubungan dengan negara asing dengan maksud  menggerakkannya untuk melakukan perbuatan permusuhan atau perang  terhadap negara, memperkuat niat mereka, menjanjikan bantuan atau  membantu  mempersiapkan  mereka  untuk  melakukan  perbuatann  permufakatan atua perang terhadap negara, diancam dengan pidana  penjara paling lama lima belas tahun.",
+      "metadata": {
+        "document_title": "Kitab Undang-Undang Hukum Pidana buku kedua",
+        "document_category": "Undang-Undang",
+        "bab": "BAB I",
+        "judul_bab": "KEJAHATAN TERHADAP KEAMANAN NEGARA",
+        "pasal": "Pasal 111",
+        "no_ayat": "1",
+        "tags": [
+          "ujaran_kebencian"
+        ],
+        "type": "ayat"
+      }
+    }
+  },
+  {
+    "file": "turnbackhoax_indexed.json",
+    "keys": [
+      "chunk_id",
+      "text",
+      "metadata",
+      "embedding"
+    ],
+    "sample": {
+      "chunk_id": "turnbackhoax_32534_claim_0",
+      "text": "Pada Jumat (20/2/2026) akun Facebook \u201cMuhammad Cahaya Kesuma\u201d mengunggah gambar [arsip] dengan narasi : \u201cDana HAJI 30% akan Dialokasikan ke sumber dana MBG,Agar program terus BERJALAN\u201d Hingga Jumat (27/2/2026) unggahan tersebut disukai 14 kali, menuai 23 komentar, dan dibagikan ulang 9 kali.",
+      "metadata": {
+        "chunk_type": "claim",
+        "item_id": "32534",
+        "title": "[SALAH] 30% dari Dana Haji Bakal Dialokasikan untuk MBG",
+        "verdict": "HOAKS",
+        "url": "https://turnbackhoax.id/articles/32534-salah-30-dari-dana-haji-bakal-dialokasikan-untuk-mbg",
+        "date": "2026-02-27",
+        "category": "Politik",
+        "source": "TurnBackHoax",
+        "full_fact": "Tim Pemeriksa Fakta Mafindo (TurnBackHoax) mencari kebenaran klaim dengan memasukan kata kunci \u201c30% dari dana haji untuk MBG\u201d ke mesin pencarian Google. Namun tidak ditemukan informasi yang membenarkan klaim. TurnBackHoax kemudian melakukan penelusuran lebih lanjut mengenai sumber anggaran program Makan Bergizi Gratis. Dilansir dari detik.com , anggaran tersebut berasal dari sektor pendidikan, kesehatan, dan ekonomi dengan rincian sebagai berikut: sektor pendidikan sebesar Rp 223 triliun (83,4 persen), sektor kesehatan Rp24,7 triliun (9,2 persen), dan sektor ekonomi Rp19,7 triliun (7,4 persen). Hingga penelusuran dilakukan, tidak ditemukan bukti bahwa 30 persen dana MBG bersumber dari dana haji. Tidak ada kebijakan resmi dari pemerintah yang membenarkan klaim. Unggahan dengan narasi \u201c30% dari dana haji bakal dialokasikan untuk MBG\u201d merupakan konten palsu (fabricated content)."
+      }
+    }
+  },
+  {
+    "file": "UU_NO_11_2008_indexed.json",
+    "keys": [
+      "chunk_id",
+      "text",
+      "metadata",
+      "embedding"
+    ],
+    "sample": {
+      "chunk_id": "UU_NO_11_2008__PASAL_27__AYAT_3",
+      "text": "Setiap Orang dengan sengaja, dan tanpa hak mendistribusikan dan/atau mentransmisikan dan/atau  membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang memiliki muatan  penghinaan dan/atau pencemaran nama baik.",
+      "metadata": {
+        "document_title": "UU_NO_11_2008",
+        "document_category": "Undang-Undang",
+        "bab": "BAB VII",
+        "judul_bab": "PERBUATAN YANG DILARANG",
+        "pasal": "Pasal 27",
+        "no_ayat": "3",
+        "tags": [
+          "fitnah"
+        ],
+        "type": "ayat"
+      }
+    }
+  },
+  {
+    "file": "UU_NO_19_2016_indexed.json",
+    "keys": [
+      "chunk_id",
+      "text",
+      "metadata",
+      "embedding"
+    ],
+    "sample": {
+      "chunk_id": "UU_NO_19_2016__PASAL_45__AYAT_3",
+      "text": "Setiap Orang yang dengan sengaja dan tanpa hak mendistribusikan dan/atau mentransmisikan  dan/atau membuat dapat diaksesnya Informasi Elektronik dan/atau Dokumen Elektronik yang  memiliki muatan penghinaan dan/atau pencemaran nama baik sebagaimana dimaksud dalam  Pasal 27 ayat (3) dipidana dengan pidana penjara paling lama 4 (empat) tahun dan/atau denda  paling banyak Rp750.000.000,00 (tujuh ratus lima puluh juta rupiah).",
+      "metadata": {
+        "document_title": "UU_NO_19_2016",
+        "document_category": "Undang-Undang",
+        "bab": "",
+        "judul_bab": "",
+        "pasal": "Pasal 45",
+        "no_ayat": "3",
+        "tags": [
+          "fitnah"
+        ],
+        "type": "ayat"
+      }
+    }
+  },
+  {
+    "file": "UU_NO_1_2023 buku kedua_indexed.json",
+    "keys": [
+      "chunk_id",
+      "text",
+      "metadata",
+      "embedding"
+    ],
+    "sample": {
+      "chunk_id": "UU_NO_1_2023_BUKU_KEDUA__PASAL_203__AYAT_1",
+      "text": "Dipidana dengan pidana penjara paling lama 12 (dua belas) tahun, Setiap Orang yang: a. mengadakan hubungan dengan negara asing atau organisasi asing dengan maksud  menggerakkannya untuk melakukan perbuatan permusuhan atau Perang dengan Negara Kesatuan Republik Indonesia; b. memperkuat niat negara asing atau organisasi asing tersebut untuk melakukan perbuatan  sebagaimana dimaksud dalam huruf a; atau c. menjanjikan bantuan atau membantu negara asing atau organisasi asing mempersiapkan  perbuatan sebagaimana dimaksud dalam huruf a.",
+      "metadata": {
+        "document_title": "UU_NO_1_2023 buku kedua",
+        "document_category": "Undang-Undang",
+        "bab": "BAB I",
+        "judul_bab": "TINDAK PIDANA TERHADAP KEAMANAN NEGARA",
+        "pasal": "Pasal 203",
+        "no_ayat": "1",
+        "tags": [
+          "ujaran_kebencian"
+        ],
+        "type": "ayat"
+      }
+    }
+  },
+  {
+    "file": "UU_NO_1_2024_indexed.json",
+    "keys": [
+      "chunk_id",
+      "text",
+      "metadata",
+      "embedding"
+    ],
+    "sample": {
+      "chunk_id": "UU_NO_1_2024__PASAL_27A__ISI",
+      "text": "Setiap Orang dengan sengaja menyerang kehormatan atau nama baik orang lain dengan cara  menuduhkan suatu hal, dengan maksud supaya hal tersebut diketahui umum dalam bentuk Informasi  Elektronik dan/atau Dokumen Elektronik yang dilakukan melalui Sistem Elektronik.",
+      "metadata": {
+        "document_title": "UU_NO_1_2024",
+        "document_category": "Undang-Undang",
+        "bab": "",
+        "judul_bab": "",
+        "pasal": "Pasal 27A",
+        "tags": [
+          "fitnah"
+        ],
+        "type": "pasal_induk"
+      }
+    }
+  }
+]
